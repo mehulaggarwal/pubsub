@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: pubsub
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Mehul
+Implementation-Vendor-Id: com.website
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/pubsub
+Created-By: Maven Integration for Eclipse
+
